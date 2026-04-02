@@ -14,6 +14,16 @@ This project demonstrates Behavior Driven Development (BDD) using Cucumber with 
 - Selenium
 - Cucumber
 - Gherkin
+## Framework Components
+- Cucumber (BDD)
+- Gherkin feature files
+- Step Definitions
+- Test Runner
+
+## Execution
+Run using JUnit runner class.
+
+
 
 ## Sample Scenario
 - Open application
